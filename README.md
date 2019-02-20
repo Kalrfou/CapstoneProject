@@ -1,4 +1,4 @@
-# CapstoneProject
+# Capstone Project
 
 NASA battery data analysis
 Data Structure:
