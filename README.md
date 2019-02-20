@@ -1,6 +1,6 @@
 # CapstoneProject
 
-NASA battery B0005 data analysis
+NASA battery data analysis
 Data Structure:
 cycle: top level structure array containing the charge, discharge and impedance operations<br>
 
