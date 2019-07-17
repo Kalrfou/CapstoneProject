@@ -1,5 +1,8 @@
 # Capstone Project
 
+The following was submitted as a final research project for a capstone course offered through the M.S. Computer Science  at the University of Wisconsin-Milwaukee.
+
+
 NASA battery data analysis
 Data Structure:
 cycle: top level structure array containing the charge, discharge and impedance operations<br>
